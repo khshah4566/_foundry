@@ -2,4 +2,6 @@
 src = "src"
 test = "test"
 script = "script"
+out = "out"
+libs = ["lib"]
 remappings = ["forge-std=lib/forge-std/src"]

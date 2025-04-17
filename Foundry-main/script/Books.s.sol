@@ -2,6 +2,7 @@
 pragma solidity 0.8.13;
 
 import "forge-std/Script.sol";
+import "forge-std/Test.sol";
 import "../src/Books.sol";
 
 contract DeployBooks is Script {
